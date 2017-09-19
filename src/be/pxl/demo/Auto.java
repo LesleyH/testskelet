@@ -9,8 +9,6 @@ public class Auto {
 		this.merk = merk;
 		this.eigenaar = eigenaar;
 		this.prijs = prijs;
-		
-		
 	}
 
 	public Auto(String merk, double prijs) {
